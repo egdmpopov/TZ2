@@ -52,6 +52,5 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            все ок
+            тесты успешно завершены
             
-            See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
