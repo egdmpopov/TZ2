@@ -12,4 +12,4 @@
 
 #### График зависимости времени выполнения от количества чисел в файле:
 
-![Speed diagram](./chart.png)
+![Speed diagram](/diagram.jpg)
